@@ -1,0 +1,11 @@
+.env
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.wav.gz
+*.mp3.gz
+*.m4a.gz
+*.ogg.gz
+*.flac.gz
